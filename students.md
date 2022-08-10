@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Students
-permalink: /students/
+title: People
+permalink: /people/
 ---
 * **Master's**
   <br/>
