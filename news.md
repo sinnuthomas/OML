@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Awards
-permalink: /awards/
+title: News
+permalink: /news/
 ---
 * **Awards to Students**
   * [Finalist for CSI-InApp International Student Projects Awards, 2021](https://www.youtube.com/watch?v=9OMzIksAeZ4&t=7095s).
