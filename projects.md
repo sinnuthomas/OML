@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Contact
+permalink: /contact/
 ---
 *  "Developing Policy Inputs for Faster Economic Recovery while Promoting Disaster Preparedness via Artificial Intelligence", British Council Going Global Partnerships Exploratory Grants, 2021.
 *  "Causal Optimal Transport for Summarizing the Unpaired Videos", DST SERB Start-up Research Grant, 2021.
