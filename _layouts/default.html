@@ -6,21 +6,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} - {{site.title}}</title>
-  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
+  <link rel="stylesheet" href="{{site.baseurl}}{{post.url}}/css/main.css">
 </head>
 
 <body>
 <header>
     <nav>
         <ul>
-            <li><a href="{{site.baseurl}}/">Home</a></li>
-            <li><a href="{{site.baseurl}}/research">Research</a></li>
-            <li><a href="{{site.baseurl}}/publications">Publications</a></li>
-            <li><a href="{{site.baseurl}}/people">People</a></li> 
-            <li><a href="{{site.baseurl}}/news">News</a></li>
+            <li><a href="{{site.baseurl}}{{post.url}}/">Home</a></li>
+            <li><a href="{{site.baseurl}}{{post.url}}/research">Research</a></li>
+            <li><a href="{{site.baseurl}}{{post.url}}/publications">Publications</a></li>
+            <li><a href="{{site.baseurl}}{{post.url}}/people">People</a></li> 
+            <li><a href="{{site.baseurl}}{{post.url}}/news">News</a></li>
         </ul>
     </nav>
-    <a class="title-a" href="{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1></a>
+    <a class="title-a" href="{{site.baseurl}}{{post.url}}/"><h1 class="title">{{site.title}}</h1></a>
 </header>
       
   
