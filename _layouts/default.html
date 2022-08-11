@@ -20,11 +20,7 @@
             <li><a href="{{site.baseurl}}/news">News</a></li>
         </ul>
     </nav>
-    {% if jekyll.environment == "production" %}
-      <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
-    {% else %}
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    {% endif %}
+    <a class="title-a" href="{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1></a>
 </header>
       
   
