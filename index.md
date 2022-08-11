@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Lab
 ---
 
 <img align="left" src="sinnu1.jpg" width="220" >
