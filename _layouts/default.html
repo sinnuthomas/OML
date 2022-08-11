@@ -6,21 +6,25 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} - {{site.title}}</title>
-  <link rel="stylesheet" href="/{{site.baseurl}}/css/main.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
 </head>
 
 <body>
 <header>
     <nav>
         <ul>
-            <li><a href="/{{site.baseurl}}/">Lab</a></li>
-            <li><a href="/{{site.baseurl}}/research">Research</a></li>
-            <li><a href="/{{site.baseurl}}/publication">Publication</a></li>
-            <li><a href="/{{site.baseurl}}/people">People</a></li> 
-            <li><a href="/{{site.baseurl}}/news">News</a></li>
+            <li><a href="{{site.baseurl}}/">Lab</a></li>
+            <li><a href="{{site.baseurl}}/research">Research</a></li>
+            <li><a href="{{site.baseurl}}/publication">Publication</a></li>
+            <li><a href="{{site.baseurl}}/people">People</a></li> 
+            <li><a href="{{site.baseurl}}/news">News</a></li>
         </ul>
     </nav>
-    <a class="title-a" href="/{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1></a>
+    {% if jekyll.environment == "production" %}
+      <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+    {% else %}
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    {% endif %}
 </header>
       
   
