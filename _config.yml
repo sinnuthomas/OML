@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Image and Vision Computing Lab / Optimization and Machine Learning Lab
+title: Image and Vision Computing Lab
 
 permalink: /:title
 
-baseurl: "/IVC_OML"
+baseurl: "/IVC"
 
 sass: 
   style: compressed
