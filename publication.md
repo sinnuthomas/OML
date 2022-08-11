@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Publication
+permalink: /publication/
 ---
 * **2022**
 <ol reversed>
