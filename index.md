@@ -5,7 +5,16 @@ title: Lab
 
 <img align="left" src="Image.jpeg" width="1320" >
 
+## Research Interests
+* [Bayesian Optimization](https://en.wikipedia.org/wiki/Bayesian_optimization) for Industrial Applications
+* [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
+## Openings
+* [Jul 2022] PhD Openings:<br/>
+    Currently seeking brilliant and highly motivated PhD students to join our research group.
+    
+    
+    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact Details<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimization and Machine Learning Lab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DUK (IIITMK)<br>
@@ -16,13 +25,7 @@ title: Lab
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+914712788088<br> 
 <br/><br/>
 
-## Research Interests
-* [Bayesian Optimization](https://en.wikipedia.org/wiki/Bayesian_optimization) for Industrial Applications
-* [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
-
-## News
-* [Jul 2022] PhD Openings:<br/>
-    Currently seeking brilliant and highly motivated PhD students to join our research group. 
+ 
 
 
 
