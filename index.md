@@ -17,11 +17,11 @@ title: Lab
     
 ## Contact Details
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimization and Machine Learning Lab<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DUK (IIITMK)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital University Kerala (formerly IIITM-Kerala)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity, Mangalapuram<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695317<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PO Thonnakkal,Thiruvananthapuram<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala 695 317 India <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+914712788088<br> 
 <br/><br/>
 
