@@ -3,10 +3,10 @@ layout: page
 title: Lab
 ---
 
-<img align="left" src="sinnu1.jpg" width="220" >
+<img align="left" src="Image.jpeg" width="220" >
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image and Vision Computing Lab<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact Details<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimization and Machine Learning Lab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DUK (IIITMK)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity<br>
@@ -17,8 +17,6 @@ title: Lab
 <br/><br/>
 
 ## Research Interests
-* [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
-* [Image](https://en.wikipedia.org/wiki/Digital_image_processing) / [Video Signal Processing](https://en.wikipedia.org/wiki/Video_processing)
 * [Bayesian Optimization](https://en.wikipedia.org/wiki/Bayesian_optimization) for Industrial Applications
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
