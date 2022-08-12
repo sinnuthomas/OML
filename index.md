@@ -21,7 +21,7 @@ title: Lab
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity, Mangalapuram<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PO Thonnakkal,Thiruvananthapuram<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala 695 317 India <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+914712788088<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-471-2788088<br> 
 <br/><br/>
 
  
