@@ -3,7 +3,7 @@ layout: page
 title: Lab
 ---
 
-<img align="left" src="Image.jpeg" width="220" >
+<img align="left" src="Image.jpeg" width="440" >
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact Details<br>
@@ -13,7 +13,7 @@ title: Lab
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695317<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firstname dot lastname at duk dot ac dot in<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+914712788088<br> 
 <br/><br/>
 
 ## Research Interests
