@@ -10,7 +10,7 @@ title: Lab
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## Openings
-* [Jul 2022] PhD Openings:<br/>
+* [Jul 2022] [PhD Openings](https://duk.ac.in/doctoral-programmes-at-duk/):<br/>
     Currently seeking brilliant and highly motivated PhD students to join our research group.
     
     
