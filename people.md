@@ -11,8 +11,9 @@ permalink: /people/
     * M Elamparithy
     * Rahul R K
     * P A Gautham Nair
-
-* **Alumni**
+  * **Project**
+    <br/>
+    * Neelima Sivadas
   <br/>  
   * Rohan Giriraj, IIITMK 2021.
   * Tarun Sharma, IIITMK 2021.
