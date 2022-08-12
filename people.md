@@ -7,7 +7,7 @@ permalink: /people/
   <br/>
   * [Sinnu Susan Thomas](https://sinnuthomas.github.io/bio/)
 
-* **Current**
+* **Current Members**
   <br/>
   * **Project**
     <br/>
