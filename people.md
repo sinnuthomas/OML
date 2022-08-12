@@ -9,18 +9,18 @@ permalink: /people/
 
 * **Current**
   <br/>
+  * **Project**
+    <br/>
+    * Neelima Sivadas
   * **Masters**
     <br/>
     * Renij Rajeev 
     * M Elamparithy
     * Rahul R K
     * P A Gautham Nair
-  * **Project**
-    <br/>
-    * Neelima Sivadas
   
-  * **Alumni**
-    <br/>  
-    * Rohan Giriraj, IIITMK 2021.
-    * Tarun Sharma, IIITMK 2021.
-    * Olivi T J, IIITMK 2020. 
+* **Alumni**
+  <br/>  
+  * Rohan Giriraj, IIITMK 2021.
+  * Tarun Sharma, IIITMK 2021.
+  * Olivi T J, IIITMK 2020. 
