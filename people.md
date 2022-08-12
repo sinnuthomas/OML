@@ -14,7 +14,9 @@ permalink: /people/
   * **Project**
     <br/>
     * Neelima Sivadas
+  
+  * **Alumni**
   <br/>  
-  * Rohan Giriraj, IIITMK 2021.
-  * Tarun Sharma, IIITMK 2021.
-  * Olivi T J, IIITMK 2020. 
+    * Rohan Giriraj, IIITMK 2021.
+    * Tarun Sharma, IIITMK 2021.
+    * Olivi T J, IIITMK 2020. 
