@@ -15,7 +15,7 @@ title: Lab
     
     
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact Details<br>
+## Contact Details
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimization and Machine Learning Lab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DUK (IIITMK)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity<br>
