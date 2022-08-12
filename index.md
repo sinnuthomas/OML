@@ -3,7 +3,7 @@ layout: page
 title: Lab
 ---
 
-<img align="left" src="Image.jpeg" width="440" >
+<img align="left" src="Image.jpeg" width="1320" >
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact Details<br>
