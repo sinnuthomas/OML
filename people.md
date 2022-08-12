@@ -3,6 +3,10 @@ layout: page
 title: People
 permalink: /people/
 ---
+* **Faculty**
+  <br/>
+  * [Sinnu Susan Thomas](https://sinnuthomas.github.io/bio/)
+
 * **Current**
   <br/>
   * **Masters**
