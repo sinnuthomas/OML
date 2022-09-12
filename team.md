@@ -9,15 +9,10 @@ permalink: /team/
 
 * **Current Members**
   <br/>
-  * **Project**
-    <br/>
-    * Neelima Sivadas
   * **Masters**
     <br/>
     * Renij Rajeev 
     * M Elamparithy
-    * Rahul R K
-    * P A Gautham Nair
   
 * **Alumni**
   <br/>  
