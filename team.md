@@ -16,6 +16,6 @@ permalink: /team/
   
 * **Alumni**
   <br/>  
-  * Rohan Giriraj, IIITMK 2021.
-  * Tarun Sharma, IIITMK 2021.
+  * Rohan Giriraj, IIITMK 2021. Currently with AMD as CAD Infrastructure DevOps Engineer. 
+  * Tarun Sharma, IIITMK 2021. Currently with Number Theory as Data Scientist.
   * Olivi T J, IIITMK 2020. 
