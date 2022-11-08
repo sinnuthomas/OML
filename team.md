@@ -12,7 +12,6 @@ permalink: /team/
   * **Masters**
     <br/>
     * Renij Rajeev 
-    * M Elamparithy
   
 * **Alumni**
   <br/>  
