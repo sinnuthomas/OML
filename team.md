@@ -9,6 +9,9 @@ permalink: /team/
 
 * **Current Members**
   <br/>
+  * **PhD**
+    <br/>
+    * Deepak Jaglan
   * **Masters**
     <br/>
     * Renij Rajeev 
