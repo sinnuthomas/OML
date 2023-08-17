@@ -11,10 +11,12 @@ permalink: /team/
   <br/>
   * **Masters**
     <br/>
-    * Renij Rajeev 
+    * Soumya C S
+    * Thomas James
   
 * **Alumni**
-  <br/>  
+  <br/>
+  * Renij Rajeev, DUK 2023.
   * Rohan Giriraj, IIITMK 2021. Currently with AMD as CAD Engineer. 
   * Tarun Sharma, IIITMK 2021. Currently with Number Theory as Data Scientist.
   * Olivi T J, IIITMK 2020. 
