@@ -7,7 +7,7 @@ title: Lab
 
 ## Research Interests
 * [Bayesian Optimization](https://en.wikipedia.org/wiki/Bayesian_optimization) for Industrial Applications
-* [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning]  
+* [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## Openings
 * [Mar 2023] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
