@@ -3,7 +3,7 @@ layout: page
 title: Lab
 ---
 
-<img align="left" src="Image.jpeg" width="1320" >
+<img align="left" src="Image.jpg" width="1320" >
 
 ## Research Interests
 * [Bayesian Optimization](https://en.wikipedia.org/wiki/Bayesian_optimization) for Industrial Applications
