@@ -9,6 +9,10 @@ permalink: /team/
 
 * **Current Members**
   <br/>
+  * **PhD**
+    <br/>
+    * Renij Rajeev
+   
   * **Masters**
     <br/>
     * Soumya C S
