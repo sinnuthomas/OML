@@ -20,7 +20,7 @@ permalink: /team/
   
 * **Alumni**
   <br/>
-  * Renij Rajeev, DUK 2023.
+  * Renij Rajeev, DUK 2023. Currently with DUK as Research Scholar. 
   * Rohan Giriraj, IIITMK 2021. Currently with AMD as CAD Engineer. 
   * Tarun Sharma, IIITMK 2021. Currently with Number Theory as Data Scientist.
   * Olivi T J, IIITMK 2020. 
