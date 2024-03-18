@@ -17,6 +17,7 @@ permalink: /team/
     <br/>
     * Soumya C S
     * Thomas James
+    * Vibhu Nagrath
   
 * **Alumni**
   <br/>
