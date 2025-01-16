@@ -3,8 +3,21 @@ layout: page
 title: Publication
 permalink: /publication/
 ---
+* **2024**
+<ol reversed>
+   <li>T. James; <b>S. S. Thomas</b>, “Multi Objective Regionalized Bayesian Optimization via Entropy Search,” in  	NeurIPS Workshops, 2024. </li>
+  <li><b>S. S. Thomas</b>; G. Lamine; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. B. Blaschko, “ <a href="https://ieeexplore.ieee.org/document/10121628">Mitigating Bias in Bayesian Optimized Data while Designing MacPherson Suspension Architecture</a>,” in IEEE Transactions on Artificial Intelligence, vol. 5, no. 2, pp. 904-915, Feb 2024. [<b>Code available on request</b>]</li>
+</ol>
+
+* **2023**
+<ol reversed>
+  <li>E. F. Arruda; R. e A. Alexandre; M. D. Fragoso; João B. R. do val; <b>S. S. Thomas</b>, “<a href="https://www.sciencedirect.com/science/article/pii/S0019057823002859">A Novel Queue-based Stochastic Epidemic Model with Adaptive Stabilising Control</a>,” in ISA Transactions, vol. 140, pp. 121-133, Sep 2023. </li>
+  <li><b>S. S. Thomas</b>; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. B. Blaschko, “ <a href="https://ieeexplore.ieee.org/document/9560711">Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization</a>,” in IEEE Transactions on Cybernetics, vol. 53, no. 4, pp. 2261-2274, Apr 2023. [<b>Code available on request</b>]</li>
+</ol>
+
 * **2022**
 <ol reversed>
+ <li>S. Neelima; <b>S. S. Thomas</b>, “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4153773"> Improvised Gender Sensitive Disaster Impact Factor for Reinforcing Disaster Resilience Network</a>,” in  	SSRN Electronic Journal, 2022.<a href="https://github.com/sivadasneelima/Disaster-Impact-Factor">[<b>Code</b>]</a> </li>  
   <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2206.13910"> Epidemic Control Modeling using Parsimonious Models and Markov Decision Processes</a>,” in  	arXiv:2206.13910, 2022.<a href="https://github.com/Tarun-Sharma9168/Optimal_Control_And_Decision_Making">[<b>Code</b>]</a> </li>
 </ol>
 
