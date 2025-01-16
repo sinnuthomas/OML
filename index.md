@@ -21,7 +21,7 @@ title: Lab
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technopark Phase IV, Mangalapuram<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PO Thonnakkal,Thiruvananthapuram<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala 695 317 India <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-471-2788088<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-471-2788071<br> 
 <br/><br/>
 
  
