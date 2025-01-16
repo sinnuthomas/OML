@@ -16,7 +16,8 @@ permalink: /team/
    
   * **Masters**
     <br/>
-    * 
+    * Ance Varghese
+    * Muhammad Aslah M
   
 * **Alumni**
   <br/>
