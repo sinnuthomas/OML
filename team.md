@@ -21,10 +21,10 @@ permalink: /team/
   
 * **Alumni**
   <br/>
-  * Soumya C S, DUK 2024. Currently with MindsMap AI Services as Machine Learning Engineer.
-  * Thomas James, DUK 2024. Currently with Stealth Startup as Machine Learning Engineer.
+  * [Soumya C S](https://www.linkedin.com/in/soucs/), DUK 2024. Currently with MindsMap AI Services as Machine Learning Engineer.
+  * [Thomas James](https://in.linkedin.com/in/thomas-james-000073199), DUK 2024. Currently with Stealth Startup as Machine Learning Engineer.
   * Vibhu Nagrath, DUK 2024.
-  * Renij Rajeev, DUK 2023. Currently with DUK as Research Scholar. 
+  * [Renij Rajeev](https://in.linkedin.com/in/renij-rajeev-513916195), DUK 2023. Currently with DUK as Research Scholar. 
   * Rohan Giriraj, IIITMK 2021. Currently with Autodesk as Software Engineer. 
-  * Tarun Sharma, IIITMK 2021. Currently Additional Diretor at Tyloones Software Private Limited.
-  * Olivi T J, IIITMK 2020. Currently with Ernst and Young as Senior Data Analyst.
+  * [Tarun Sharma](https://in.linkedin.com/in/tarun-sharma-685a04148), IIITMK 2021. Currently Additional Diretor at Tyloones Software Private Limited.
+  * [Olivi T J](https://in.linkedin.com/in/olivitj?trk=people_directory), IIITMK 2020. Currently with Ernst and Young as Senior Data Analyst.
