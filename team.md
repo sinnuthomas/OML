@@ -21,7 +21,7 @@ permalink: /team/
   
 * **Alumni**
   <br/>
-  * Soumya C S, DUK 2024.
+  * Soumya C S, DUK 2024. Currently with MindsMap AI Services as Machine Learning Engineer.
   * Thomas James, DUK 2024. Currently with Stealth Startup as Machine Learning Engineer.
   * Vibhu Nagrath, DUK 2024.
   * Renij Rajeev, DUK 2023. Currently with DUK as Research Scholar. 
