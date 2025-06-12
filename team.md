@@ -20,8 +20,8 @@ permalink: /team/
   
 * **Alumni**
   <br/>
-  * Ance Varghese, DUK 2025
-  * Muhammad Aslah M, DUK 2025
+  * Ance Varghese, DUK 2025.
+  * Muhammad Aslah M, DUK 2025.
   * [Soumya C S](https://www.linkedin.com/in/soucs/), DUK 2024. Currently with MindsMap AI Services as Machine Learning Engineer.
   * [Thomas James](https://in.linkedin.com/in/thomas-james-000073199), DUK 2024. Currently with Stealth Startup as Machine Learning Engineer.
   * Vibhu Nagrath, DUK 2024.
