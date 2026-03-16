@@ -10,7 +10,7 @@ title: Lab
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## Openings
-* [Mar 2026] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
+* [Mar 2026] [PhD Openings](https://duk.ac.in/admissions/doctoral/phd/):<br/>
     Currently seeking brilliant and highly motivated PhD students to join our research group. 
     
     
