@@ -13,10 +13,15 @@ permalink: /team/
     <br/>
     * Renij Rajeev
     * Archana Vijayan
+    * Sanjay M S 
    
   * **Masters**
     <br/>
-    * 
+    * Ananth Sankar
+    * Anjana S Arjunan
+    * Johann James
+    * Sruthi Krishna M
+    * Abdul Kalam K H
   
 * **Alumni**
   <br/>
