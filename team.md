@@ -17,7 +17,6 @@ permalink: /team/
    
   * **Masters**
     <br/>
-    * Ananth Sankar
     * Anjana S Arjunan
     * Johann James
     * Sruthi Krishna M
