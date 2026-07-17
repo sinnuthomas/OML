@@ -17,10 +17,8 @@ permalink: /team/
    
   * **Masters**
     <br/>
-    * Anjana S Arjunan
     * Johann James
     * Sruthi Krishna M
-    * Abdul Kalam K H
   
 * **Alumni**
   <br/>
